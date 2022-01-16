@@ -58,5 +58,5 @@ Hi
   </li>
   </ul>
  
-  <h1 align="center">👹 EVERYTHING IS VULNERABLE! 👹</h1><br>
+  <h1 align="center">work SMART, instead of HARD</h1><br>
   <h2 align="center"></h2>
