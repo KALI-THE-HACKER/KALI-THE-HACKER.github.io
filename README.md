@@ -12,16 +12,16 @@ Hi
       👨‍💻 I'm currently working on <strong>Cyber Security</strong> and <strong>Programming</strong>.<br><br>
     </li>
     <li>
-      🧠 I'm currently trying to learning some more <strong>programming languages</strong>, <strong>Russian<strong>, and some <strong>Native Indian languages</strong>.<br><br>
+      🧠 Working on to learning some more <strong>programming languages</strong>, <strong>Russian<strong>, and some <strong>Native Indian languages</strong>.<br><br>
     </li>
     <li>
       💻 Programming languages I know : Python, C++, Java(basics), Batch(basics), HTML-CSS.<br><br>
     </li>
     <li>
-      🏫 Education : Currently in High school.<br><br>
+      🏫 Education : Currently preparing for JEE.<br><br>
     </li>
     <li>
-      📖 Some more info : Born in 2006, the first 5 years of my life were spent in my village, so, I am also a desi guy!<br><br>
+      📖 Some more info : A teenager, who is away from his home for the preperation of One of the India's toughest exam- JEE<br><br>
       </li>
   </ul>
  </h4> 
@@ -37,26 +37,26 @@ Hi
   
 <h3>👀 Visitor Count - </h3>
   
-![Visitor Count](https://profile-counter.glitch.me/luckyverma-sudo/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/KALI-THE-HACKER/count.svg)
 <h2>📊 My GitHub stats </h2>
     
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=luckyverma-sudo&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=luckyverma-sudo&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=KALI-THE-HACKER&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KALI-THE-HACKER&langs_count=5&theme=tokyonight)]()
 <h3>😇 Best of my all time -</h3>
 <ul>
   <li>
-    <a href="https://github.com/luckyverma-sudo/yt-downloader-GUI">yt-downloader-GUI</a>
+    <a href="https://github.com/KALI-THE-HACKER/yt-downloader-GUI">yt-downloader-GUI</a>
   </li>
   <li>
-    <a href="https://github.com/luckyverma-sudo/stone-paper-scissor-GUI">stone-paper-scissor-GUI</a>
+    <a href="https://github.com/KALI-THE-HACKER/stone-paper-scissor-GUI">stone-paper-scissor-GUI</a>
   </li>
   <li>
-    <a href="https://github.com/luckyverma-sudo/caeser-cipher">caeser-cipher</a>
+    <a href="https://github.com/KALI-THE-HACKER/caeser-cipher">caeser-cipher</a>
   </li>
   <li>
-    <a href="https://github.com/luckyverma-sudo/GUI_Log-in">GUI_Log-in</a>
+    <a href="https://github.com/KALI-THE-HACKER/GUI_Log-in">GUI_Log-in</a>
   </li>
   </ul>
  
-  <h1 align="center">👹 EVERYTHING IS VULNERABLE! 👹</h1><br>
+  <h1 align="center">�WORK SMART INSTEAD OF HARD</h1><br>
   <h2 align="center"></h2>
