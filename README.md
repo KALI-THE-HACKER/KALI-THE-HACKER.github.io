@@ -58,5 +58,5 @@ Hi
   </li>
   </ul>
  
-  <h1 align="center">�WORK SMART INSTEAD OF HARD</h1><br>
+  <h1 align="center">WORK SMART INSTEAD OF HARD</h1><br>
   <h2 align="center"></h2>
