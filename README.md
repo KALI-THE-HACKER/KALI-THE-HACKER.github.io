@@ -1,1 +1,44 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+	<title>About us</title>
+	<link rel="stylesheet" type="text/css" href="about-#dboys.css">
+</head>
+<body>
+	<div class="logo">
+		<a href="https://www.youtube.com/channel/UCE3flQ53XTWEt11AElN5D9w" class="btn"><img src="logo 3 bg.png"></a>
+	</div>
+<h2> <u> <i>Creator- lucky verma</i></u> </h2>
+	<h2>We are here to provide you our tech related videos </h2>
+	<br>
+	<h3>You all know that in upcoming time or in future the whole world changes completely because our technology has become upgrading day by day and many of the countries like America, China, Japan and many more are well upgraded in technology from us and  our government and many IT companies are trying to make the youngsters to know about the new technologies and etc. </h3>
+
+<br>
+<br>
+<h3>we are also created a website from which you can shop online your domestic items ,electronics and many more other products you can click on Karadia Mart from our home page or you can also click on the below button to open Karadia Mart</h3>
+<br>
+<div class="button">
+	<a href="https://www.karadiamart.com/" class="btn">Karadia Mart</a>
+</div>
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<h4><u>This website is created by lucky verma.<br></u>
+	if you also want to make some this type of website for your business or anything else,i am here you can contact us on g-mail : <u>luckyv0545746@gmail.com</u>
+
+</body>
+</html>
