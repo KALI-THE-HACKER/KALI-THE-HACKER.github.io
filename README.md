@@ -1,15 +1,24 @@
-# JavaScript Chat
 
-Create a simple chat room using JavaScript.
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Chat</title>
 
-Note:  You can replace port 9600 with any available port on your system.
+    <link type="text/css" href="/css/main.css" rel="stylesheet" />
+</head>
 
-## Choose a server-side solution for websockets to bring the chat room to life:
+<body>
 
-[PHP version](https://github.com/orangeable/php-websocket)
+<div id="chat">
+    <div id="chat-messages"></div>
 
-[Node.js version](https://github.com/orangeable/nodejs-websocket)
+    <form id="chat-form" method="post">
+        <input type="text" name="message" placeHolder="Enter a message..." maxlength="500" autoComplete="off" />
+        <button type="submit">Send</button>
+    </form>
+</div>
 
-## Read our detailed article:
+<script type="text/javascript" src="/js/main.js"></script>
 
-[How to Create a Simple Chat Room with JavaScript](https://orangeable.com/javascript/chat)
+</body>
+</html>
